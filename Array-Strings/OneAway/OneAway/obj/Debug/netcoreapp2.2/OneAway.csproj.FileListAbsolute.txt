@@ -1,0 +1,11 @@
+C:\Development\Practice\Algorithms&DataStructures\OneAway\OneAway\bin\Debug\netcoreapp2.2\OneAway.deps.json
+C:\Development\Practice\Algorithms&DataStructures\OneAway\OneAway\bin\Debug\netcoreapp2.2\OneAway.runtimeconfig.json
+C:\Development\Practice\Algorithms&DataStructures\OneAway\OneAway\bin\Debug\netcoreapp2.2\OneAway.runtimeconfig.dev.json
+C:\Development\Practice\Algorithms&DataStructures\OneAway\OneAway\bin\Debug\netcoreapp2.2\OneAway.dll
+C:\Development\Practice\Algorithms&DataStructures\OneAway\OneAway\bin\Debug\netcoreapp2.2\OneAway.pdb
+C:\Development\Practice\Algorithms&DataStructures\OneAway\OneAway\obj\Debug\netcoreapp2.2\OneAway.csprojAssemblyReference.cache
+C:\Development\Practice\Algorithms&DataStructures\OneAway\OneAway\obj\Debug\netcoreapp2.2\OneAway.csproj.CoreCompileInputs.cache
+C:\Development\Practice\Algorithms&DataStructures\OneAway\OneAway\obj\Debug\netcoreapp2.2\OneAway.AssemblyInfoInputs.cache
+C:\Development\Practice\Algorithms&DataStructures\OneAway\OneAway\obj\Debug\netcoreapp2.2\OneAway.AssemblyInfo.cs
+C:\Development\Practice\Algorithms&DataStructures\OneAway\OneAway\obj\Debug\netcoreapp2.2\OneAway.dll
+C:\Development\Practice\Algorithms&DataStructures\OneAway\OneAway\obj\Debug\netcoreapp2.2\OneAway.pdb

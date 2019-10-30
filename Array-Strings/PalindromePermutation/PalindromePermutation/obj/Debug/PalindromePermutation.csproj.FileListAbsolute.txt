@@ -1,0 +1,7 @@
+C:\Development\Practice\Algorithms&DataStructures\PalindromePermutation\PalindromePermutation\bin\Debug\PalindromePermutation.exe.config
+C:\Development\Practice\Algorithms&DataStructures\PalindromePermutation\PalindromePermutation\bin\Debug\PalindromePermutation.exe
+C:\Development\Practice\Algorithms&DataStructures\PalindromePermutation\PalindromePermutation\bin\Debug\PalindromePermutation.pdb
+C:\Development\Practice\Algorithms&DataStructures\PalindromePermutation\PalindromePermutation\obj\Debug\PalindromePermutation.exe
+C:\Development\Practice\Algorithms&DataStructures\PalindromePermutation\PalindromePermutation\obj\Debug\PalindromePermutation.pdb
+C:\Development\Practice\Algorithms&DataStructures\PalindromePermutation\PalindromePermutation\obj\Debug\PalindromePermutation.csprojAssemblyReference.cache
+C:\Development\Practice\Algorithms&DataStructures\PalindromePermutation\PalindromePermutation\obj\Debug\PalindromePermutation.csproj.CoreCompileInputs.cache

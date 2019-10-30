@@ -1,0 +1,11 @@
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-Partition\LinkedList-Partition\bin\Debug\netcoreapp2.2\LinkedList-Partition.deps.json
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-Partition\LinkedList-Partition\bin\Debug\netcoreapp2.2\LinkedList-Partition.runtimeconfig.json
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-Partition\LinkedList-Partition\bin\Debug\netcoreapp2.2\LinkedList-Partition.runtimeconfig.dev.json
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-Partition\LinkedList-Partition\bin\Debug\netcoreapp2.2\LinkedList-Partition.dll
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-Partition\LinkedList-Partition\bin\Debug\netcoreapp2.2\LinkedList-Partition.pdb
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-Partition\LinkedList-Partition\obj\Debug\netcoreapp2.2\LinkedList-Partition.csprojAssemblyReference.cache
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-Partition\LinkedList-Partition\obj\Debug\netcoreapp2.2\LinkedList-Partition.csproj.CoreCompileInputs.cache
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-Partition\LinkedList-Partition\obj\Debug\netcoreapp2.2\LinkedList-Partition.AssemblyInfoInputs.cache
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-Partition\LinkedList-Partition\obj\Debug\netcoreapp2.2\LinkedList-Partition.AssemblyInfo.cs
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-Partition\LinkedList-Partition\obj\Debug\netcoreapp2.2\LinkedList-Partition.dll
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-Partition\LinkedList-Partition\obj\Debug\netcoreapp2.2\LinkedList-Partition.pdb

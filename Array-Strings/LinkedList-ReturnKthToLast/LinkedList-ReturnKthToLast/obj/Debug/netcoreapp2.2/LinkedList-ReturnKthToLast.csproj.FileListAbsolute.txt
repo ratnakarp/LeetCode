@@ -1,0 +1,11 @@
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-ReturnKthToLast\LinkedList-ReturnKthToLast\bin\Debug\netcoreapp2.2\LinkedList-ReturnKthToLast.deps.json
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-ReturnKthToLast\LinkedList-ReturnKthToLast\bin\Debug\netcoreapp2.2\LinkedList-ReturnKthToLast.runtimeconfig.json
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-ReturnKthToLast\LinkedList-ReturnKthToLast\bin\Debug\netcoreapp2.2\LinkedList-ReturnKthToLast.runtimeconfig.dev.json
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-ReturnKthToLast\LinkedList-ReturnKthToLast\bin\Debug\netcoreapp2.2\LinkedList-ReturnKthToLast.dll
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-ReturnKthToLast\LinkedList-ReturnKthToLast\bin\Debug\netcoreapp2.2\LinkedList-ReturnKthToLast.pdb
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-ReturnKthToLast\LinkedList-ReturnKthToLast\obj\Debug\netcoreapp2.2\LinkedList-ReturnKthToLast.csprojAssemblyReference.cache
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-ReturnKthToLast\LinkedList-ReturnKthToLast\obj\Debug\netcoreapp2.2\LinkedList-ReturnKthToLast.csproj.CoreCompileInputs.cache
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-ReturnKthToLast\LinkedList-ReturnKthToLast\obj\Debug\netcoreapp2.2\LinkedList-ReturnKthToLast.AssemblyInfoInputs.cache
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-ReturnKthToLast\LinkedList-ReturnKthToLast\obj\Debug\netcoreapp2.2\LinkedList-ReturnKthToLast.AssemblyInfo.cs
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-ReturnKthToLast\LinkedList-ReturnKthToLast\obj\Debug\netcoreapp2.2\LinkedList-ReturnKthToLast.dll
+C:\Development\Practice\Algorithms&DataStructures\LinkedList-ReturnKthToLast\LinkedList-ReturnKthToLast\obj\Debug\netcoreapp2.2\LinkedList-ReturnKthToLast.pdb

@@ -1,0 +1,11 @@
+C:\Development\Practice\Algorithms&DataStructures\ZeroMatrix\ZeroMatrix\bin\Debug\netcoreapp2.2\ZeroMatrix.deps.json
+C:\Development\Practice\Algorithms&DataStructures\ZeroMatrix\ZeroMatrix\bin\Debug\netcoreapp2.2\ZeroMatrix.runtimeconfig.json
+C:\Development\Practice\Algorithms&DataStructures\ZeroMatrix\ZeroMatrix\bin\Debug\netcoreapp2.2\ZeroMatrix.runtimeconfig.dev.json
+C:\Development\Practice\Algorithms&DataStructures\ZeroMatrix\ZeroMatrix\bin\Debug\netcoreapp2.2\ZeroMatrix.dll
+C:\Development\Practice\Algorithms&DataStructures\ZeroMatrix\ZeroMatrix\bin\Debug\netcoreapp2.2\ZeroMatrix.pdb
+C:\Development\Practice\Algorithms&DataStructures\ZeroMatrix\ZeroMatrix\obj\Debug\netcoreapp2.2\ZeroMatrix.csprojAssemblyReference.cache
+C:\Development\Practice\Algorithms&DataStructures\ZeroMatrix\ZeroMatrix\obj\Debug\netcoreapp2.2\ZeroMatrix.csproj.CoreCompileInputs.cache
+C:\Development\Practice\Algorithms&DataStructures\ZeroMatrix\ZeroMatrix\obj\Debug\netcoreapp2.2\ZeroMatrix.AssemblyInfoInputs.cache
+C:\Development\Practice\Algorithms&DataStructures\ZeroMatrix\ZeroMatrix\obj\Debug\netcoreapp2.2\ZeroMatrix.AssemblyInfo.cs
+C:\Development\Practice\Algorithms&DataStructures\ZeroMatrix\ZeroMatrix\obj\Debug\netcoreapp2.2\ZeroMatrix.dll
+C:\Development\Practice\Algorithms&DataStructures\ZeroMatrix\ZeroMatrix\obj\Debug\netcoreapp2.2\ZeroMatrix.pdb

@@ -1,0 +1,11 @@
+C:\Development\Practice\Algorithms&DataStructures\IsUnique\IsUnique\bin\Debug\netcoreapp2.2\IsUnique.deps.json
+C:\Development\Practice\Algorithms&DataStructures\IsUnique\IsUnique\bin\Debug\netcoreapp2.2\IsUnique.runtimeconfig.json
+C:\Development\Practice\Algorithms&DataStructures\IsUnique\IsUnique\bin\Debug\netcoreapp2.2\IsUnique.runtimeconfig.dev.json
+C:\Development\Practice\Algorithms&DataStructures\IsUnique\IsUnique\bin\Debug\netcoreapp2.2\IsUnique.dll
+C:\Development\Practice\Algorithms&DataStructures\IsUnique\IsUnique\bin\Debug\netcoreapp2.2\IsUnique.pdb
+C:\Development\Practice\Algorithms&DataStructures\IsUnique\IsUnique\obj\Debug\netcoreapp2.2\IsUnique.csprojAssemblyReference.cache
+C:\Development\Practice\Algorithms&DataStructures\IsUnique\IsUnique\obj\Debug\netcoreapp2.2\IsUnique.csproj.CoreCompileInputs.cache
+C:\Development\Practice\Algorithms&DataStructures\IsUnique\IsUnique\obj\Debug\netcoreapp2.2\IsUnique.AssemblyInfoInputs.cache
+C:\Development\Practice\Algorithms&DataStructures\IsUnique\IsUnique\obj\Debug\netcoreapp2.2\IsUnique.AssemblyInfo.cs
+C:\Development\Practice\Algorithms&DataStructures\IsUnique\IsUnique\obj\Debug\netcoreapp2.2\IsUnique.dll
+C:\Development\Practice\Algorithms&DataStructures\IsUnique\IsUnique\obj\Debug\netcoreapp2.2\IsUnique.pdb
