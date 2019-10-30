@@ -1,0 +1,1 @@
+C:\Development\Practice\Algorithms&DataStructures\CheckPermutation\CheckPermutation\bin\Debug\CheckPermutation.exe.config
