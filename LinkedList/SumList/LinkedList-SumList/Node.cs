@@ -6,8 +6,12 @@ namespace LinkedList_SumList
 {
     public class Node
     {
-        public Node Next;
-
         public int Data;
+        public Node Next;
+        public Node(int d)
+        {
+            Data = d;
+            Next = null;
+        }
     }
 }

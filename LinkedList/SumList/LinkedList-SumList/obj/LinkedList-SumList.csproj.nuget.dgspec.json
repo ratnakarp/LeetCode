@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Practice\\Algorithms&DataStructures\\LinkedList-SumList\\LinkedList-SumList\\LinkedList-SumList.csproj": {}
+    "C:\\Development\\Practice\\LeetCode\\LinkedList\\SumList\\LinkedList-SumList\\LinkedList-SumList.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Practice\\Algorithms&DataStructures\\LinkedList-SumList\\LinkedList-SumList\\LinkedList-SumList.csproj": {
+    "C:\\Development\\Practice\\LeetCode\\LinkedList\\SumList\\LinkedList-SumList\\LinkedList-SumList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Practice\\Algorithms&DataStructures\\LinkedList-SumList\\LinkedList-SumList\\LinkedList-SumList.csproj",
+        "projectUniqueName": "C:\\Development\\Practice\\LeetCode\\LinkedList\\SumList\\LinkedList-SumList\\LinkedList-SumList.csproj",
         "projectName": "LinkedList-SumList",
-        "projectPath": "C:\\Development\\Practice\\Algorithms&DataStructures\\LinkedList-SumList\\LinkedList-SumList\\LinkedList-SumList.csproj",
+        "projectPath": "C:\\Development\\Practice\\LeetCode\\LinkedList\\SumList\\LinkedList-SumList\\LinkedList-SumList.csproj",
         "packagesPath": "C:\\Users\\rpedagani\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Practice\\Algorithms&DataStructures\\LinkedList-SumList\\LinkedList-SumList\\obj\\",
+        "outputPath": "C:\\Development\\Practice\\LeetCode\\LinkedList\\SumList\\LinkedList-SumList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -51,10 +51,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

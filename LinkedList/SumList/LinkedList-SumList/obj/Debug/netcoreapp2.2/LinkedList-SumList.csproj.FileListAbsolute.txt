@@ -1,0 +1,10 @@
+C:\Development\Practice\LeetCode\LinkedList\SumList\LinkedList-SumList\bin\Debug\netcoreapp2.2\LinkedList-SumList.deps.json
+C:\Development\Practice\LeetCode\LinkedList\SumList\LinkedList-SumList\bin\Debug\netcoreapp2.2\LinkedList-SumList.runtimeconfig.json
+C:\Development\Practice\LeetCode\LinkedList\SumList\LinkedList-SumList\bin\Debug\netcoreapp2.2\LinkedList-SumList.runtimeconfig.dev.json
+C:\Development\Practice\LeetCode\LinkedList\SumList\LinkedList-SumList\bin\Debug\netcoreapp2.2\LinkedList-SumList.dll
+C:\Development\Practice\LeetCode\LinkedList\SumList\LinkedList-SumList\bin\Debug\netcoreapp2.2\LinkedList-SumList.pdb
+C:\Development\Practice\LeetCode\LinkedList\SumList\LinkedList-SumList\obj\Debug\netcoreapp2.2\LinkedList-SumList.csprojAssemblyReference.cache
+C:\Development\Practice\LeetCode\LinkedList\SumList\LinkedList-SumList\obj\Debug\netcoreapp2.2\LinkedList-SumList.AssemblyInfoInputs.cache
+C:\Development\Practice\LeetCode\LinkedList\SumList\LinkedList-SumList\obj\Debug\netcoreapp2.2\LinkedList-SumList.AssemblyInfo.cs
+C:\Development\Practice\LeetCode\LinkedList\SumList\LinkedList-SumList\obj\Debug\netcoreapp2.2\LinkedList-SumList.dll
+C:\Development\Practice\LeetCode\LinkedList\SumList\LinkedList-SumList\obj\Debug\netcoreapp2.2\LinkedList-SumList.pdb

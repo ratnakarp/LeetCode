@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Practice\\Algorithms&DataStructures\\LinkedList-Partition\\LinkedList-Partition\\LinkedList-Partition.csproj": {}
+    "C:\\Development\\Practice\\LeetCode\\LinkedList\\Partition\\LinkedList-Partition\\LinkedList-Partition.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Practice\\Algorithms&DataStructures\\LinkedList-Partition\\LinkedList-Partition\\LinkedList-Partition.csproj": {
+    "C:\\Development\\Practice\\LeetCode\\LinkedList\\Partition\\LinkedList-Partition\\LinkedList-Partition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Practice\\Algorithms&DataStructures\\LinkedList-Partition\\LinkedList-Partition\\LinkedList-Partition.csproj",
+        "projectUniqueName": "C:\\Development\\Practice\\LeetCode\\LinkedList\\Partition\\LinkedList-Partition\\LinkedList-Partition.csproj",
         "projectName": "LinkedList-Partition",
-        "projectPath": "C:\\Development\\Practice\\Algorithms&DataStructures\\LinkedList-Partition\\LinkedList-Partition\\LinkedList-Partition.csproj",
+        "projectPath": "C:\\Development\\Practice\\LeetCode\\LinkedList\\Partition\\LinkedList-Partition\\LinkedList-Partition.csproj",
         "packagesPath": "C:\\Users\\rpedagani\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Practice\\Algorithms&DataStructures\\LinkedList-Partition\\LinkedList-Partition\\obj\\",
+        "outputPath": "C:\\Development\\Practice\\LeetCode\\LinkedList\\Partition\\LinkedList-Partition\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
